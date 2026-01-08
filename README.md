@@ -2,8 +2,6 @@
 📌 Project Overview
 This project is an end-to-end data analytics solution focused on analyzing customer shopping behavior using Python, MySQL, and Power BI, along with automated PDF reports and PowerPoint presentations. The goal is to transform raw transactional data into meaningful business insights that help understand customer preferences, spending patterns, and product performance.
 
-The project demonstrates real-world data analytics skills, including data cleaning, database querying, visualization, and professional reporting—making it suitable for portfolio and resume showcasing.
-
 🎯 Objectives
 Analyze customer purchasing behavior
 Identify high-value customers and popular products
